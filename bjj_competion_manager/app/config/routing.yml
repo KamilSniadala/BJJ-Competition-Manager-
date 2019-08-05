@@ -1,0 +1,5 @@
+home_page_managment:
+    resource: "@HomePageManagmentBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

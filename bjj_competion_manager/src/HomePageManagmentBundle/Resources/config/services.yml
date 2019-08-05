@@ -1,0 +1,4 @@
+services:
+#    home_page_managment.example:
+#        class: HomePageManagmentBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
